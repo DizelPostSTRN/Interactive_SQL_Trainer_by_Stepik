@@ -5,3 +5,7 @@ Questions and answers are presented in txt format
 
 В этом репозитории хранятся задания из курса по SQL "Интерактивный тренажер SQL" от платформы Степик.
 Вопросы и ответы представлены в формате txt
+
+
+ЗЫ - из курса (обозначения)
+https://stepik.org/lesson/583183/step/1?unit=577913
